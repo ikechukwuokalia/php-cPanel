@@ -1,0 +1,25 @@
+{
+  "name": "ikechukwuokalia/php-cPanel",
+  "description": "cPanel API functions",
+  "keywords": ["php","cPanel", "api", "function"],
+  "homepage": "https://github.com/ikechukwuokalia/php-cPanel",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Ikechukwu Okalia",
+      "email": "dev@ikechukwuokalia.com",
+      "homepage": "https://ikechukwuokalia.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {},
+  "autoload": {
+      "psr-4": {
+        "IkechukwuOkalia\\": "src/"
+      },
+      "files" : [
+      ]
+  }
+}
