@@ -1,8 +1,8 @@
 {
-  "name": "ikechukwuokalia/php-cPanel",
+  "name": "ikechukwuokalia/php-cpanel",
   "description": "cPanel API functions",
   "keywords": ["php","cPanel", "api", "function"],
-  "homepage": "https://github.com/ikechukwuokalia/php-cPanel",
+  "homepage": "https://github.com/ikechukwuokalia/php-cpanel",
   "type": "library",
   "authors": [
     {
